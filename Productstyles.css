@@ -10,7 +10,7 @@
 .container {
   width: 100vw;
   height: 100%;
-  background-image: url(./Images/crypto-background.jpeg);
+  background-image: url(/Images/crypto-background.jpg);
   background-size: cover;
   color: #c9c9c9;
   font-family: "Roboto", monospace;
@@ -204,11 +204,11 @@
 }
 
 #section1 {
-  background-image: url(./Images/cryptoimg1.jpeg);
+  background-image: url(./Images/cryptoimg1.jpg);
 }
 
 #section2 {
-  background-image: url(./Images/cryptoimg2.jpeg);
+  background-image: url(./Images/cryptoimg2.jpg);
 }
 
 #section3 {
