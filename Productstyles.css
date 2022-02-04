@@ -204,15 +204,15 @@
 }
 
 #section1 {
-  background-image: url(./Images/cryptoimg1.jpg);
+  background-image: url(/Images/cryptoimg1.jpg);
 }
 
 #section2 {
-  background-image: url(./Images/cryptoimg2.jpg);
+  background-image: url(/Images/cryptoimg2.jpg);
 }
 
 #section3 {
-  background-image: url(./Images/cryptoimg3.jpg);
+  background-image: url(/Images/cryptoimg3.jpg);
 }
 
 .btn {
